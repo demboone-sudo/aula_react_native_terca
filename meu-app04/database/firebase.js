@@ -6,7 +6,12 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-
+  apiKey: "AIzaSyCEBPS3H7AdU7m4P30HTDxrE7TWwnyziMA",
+  authDomain: "progr-dispo-moveis.firebaseapp.com",
+  projectId: "progr-dispo-moveis",
+  storageBucket: "progr-dispo-moveis.firebasestorage.app",
+  messagingSenderId: "1059808069443",
+  appId: "1:1059808069443:web:e0e0145eb67ad79bc211f6"
 };
 
 // Initialize Firebase
